@@ -1,0 +1,1 @@
+class Van < Vehicle; end
